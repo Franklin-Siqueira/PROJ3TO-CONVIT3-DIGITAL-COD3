@@ -4,7 +4,7 @@
 // import Pagina from "@/components/template/Pagina";
 import Pagina from "../components/template/Pagina";
 // import { Evento } from "@/core";
-import { Evento } from "../core";
+import { Evento } from "../old-core";
 
 export default function Home() {
   const e: Partial<Evento> = {};

@@ -1,7 +1,8 @@
 // Copyright 2024 Franklin Siqueira.
 // SPDX-License-Identifier: Apache-2.0
 
-import { Convidado, Evento } from "@/core";
+// import { Convidado, Evento } from "@/core";
+import { Convidado, Evento } from "core";
 import InformacoesEvento from "./InformacoesEvento";
 import AcessarViaQrCode from "./AcessarViaQrCode";
 import Estatistica from "../shared/Estatistica";

@@ -1,7 +1,8 @@
 // Copyright 2024 Franklin Siqueira.
 // SPDX-License-Identifier: Apache-2.0
 
-import { Evento } from "@/core";
+// import { Evento } from "@/core";
+import { Evento } from "old-core";
 import Informacao from "../shared/Informacao";
 
 export interface InformacoesEventoProps {

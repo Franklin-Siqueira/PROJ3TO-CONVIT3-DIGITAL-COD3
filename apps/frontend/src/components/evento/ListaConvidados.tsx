@@ -1,7 +1,8 @@
 // Copyright 2024 Franklin Siqueira.
 // SPDX-License-Identifier: Apache-2.0
 
-import { Convidado } from "@/core";
+// import { Convidado } from "@/core";
+import { Convidado } from "core";
 import ConvidadoItem from "./ConvidadoItem";
 
 export interface ListaConvidadosProps {

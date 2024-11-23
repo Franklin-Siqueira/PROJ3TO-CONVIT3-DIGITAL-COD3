@@ -1,7 +1,8 @@
 // Copyright 2024 Franklin Siqueira.
 // SPDX-License-Identifier: Apache-2.0
 
-import { Evento } from "@/core";
+// import { Evento } from "@/core";
+import { Evento } from "core";
 import QRCode from "react-qr-code";
 
 export interface AcessarViaQrCodeProps {
